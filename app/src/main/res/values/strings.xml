@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Irrigo</string>
+    <string name="resend_otp_in_seconds">Resend OTP in %1$d seconds</string>
+</resources>
